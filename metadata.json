@@ -1,0 +1,5 @@
+{
+  "name": "TrackMyProject Admin Portal",
+  "description": "Admin interface for TrackMyProject. Manage student project submissions, track progress, and use AI to evaluate feasibility and tech stacks.",
+  "requestFramePermissions": []
+}
